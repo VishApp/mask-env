@@ -4,8 +4,6 @@
 [![Python versions](https://img.shields.io/pypi/pyversions/mask-env.svg)](https://pypi.org/project/mask-env/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-Note: PyPI and Python version badges will appear after the first release is published to PyPI.
-
 Create safe example files from secret files in multiple formats by replacing all secret-looking values with human-readable placeholders.
 
 **Supports:** `.env`, `.JSON`, `.YAML`, `.INI/CFG/CONF`, `.properties`, `.TOML`, and `.key/certificate` files.
