@@ -115,15 +115,6 @@ from mask_env import create_safe_example
 secrets_replaced = create_safe_example('.env')
 ```
 
-## Running Unit Tests
-
-Tests are located under `tests/` with sample files in `tests/samples/`.
-
-```bash
-# From project root
-python -m unittest discover -s tests -p "test_*.py" -v
-```
-
 ## Requirements
 
 - Python 3.7+
